@@ -1,0 +1,26 @@
+{
+  "name": "js-dev-env-demo-api",
+  "version": "1.0.0",
+  "description": "A simple demo API built on Node and Express, and hosted on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickash/js-dev-env-demo-api.git"
+  },
+  "author": "Patrick Ashamalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickash/js-dev-env-demo-api/issues"
+  },
+  "homepage": "https://github.com/patrickash/js-dev-env-demo-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "17.3.0"
+  }
+}
